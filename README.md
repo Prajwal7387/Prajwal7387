@@ -12,9 +12,6 @@
   <br/>
   💡 Interested in Real World problem-solving and diving deep into AI .
 </p>
-
----
-
 ### 🛠️ Languages & Tools
 
 #### 💻 Frontend
@@ -24,7 +21,12 @@
 
 #### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+#### 📊 Data & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,tensorflow,pytorch" />
 </p>
 
 #### 🗄️ Database
