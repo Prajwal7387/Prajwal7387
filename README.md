@@ -1,32 +1,29 @@
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">Aspiring Skills like AI&Cloud | AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gopu0106&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h3 align="center">Aspiring Skills in AI & Cloud | AI Enthusiast</h3>
 
 <p align="center">
   🚀 Passionate about AI and Cloud Software  
   <br/>
   🌱 Currently learning DSA in Java  
   <br/>
-  💡 Interested in Real World problem-solving and diving deep into AI .
+  💡 Interested in real-world problem-solving and diving deep into AI
 </p>
+
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
-#### 💻 Frontend
+### 💻 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-#### ⚙️ Backend
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
-#### 📊 Data, Visualization & ML
+### 📊 Data, Visualization & ML
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -35,12 +32,12 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-#### 🗄️ Database
+### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-#### 🔧 Tools
+### 🔧 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
