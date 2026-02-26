@@ -28,17 +28,8 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal7387&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Prajwal7387&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal7387&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prajwal7387&theme=github-dark&hide_border=true" />
-</p>
-
 ---
 
 ## 📈 Contribution Graph
