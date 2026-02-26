@@ -28,15 +28,15 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prajwal7387&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal7387&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal7387&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal7387&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal7387&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Prajwal7387&theme=github-dark&hide_border=true" />
 </p>
 
 ---
