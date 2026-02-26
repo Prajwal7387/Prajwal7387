@@ -1,43 +1,65 @@
-<h1 align="center">Hi 👋, I'm Prajwal</h1>
-<h3 align="center">Aspiring Skills in AI & Cloud | AI Enthusiast</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Prajwal Mahamuni</h3>
+<h3 align="center">💻 Information Technology Student | Passionate About Coding</h3>
+
+---
+
+## 🌐 Connect with me
 
 <p align="center">
-  🚀 Passionate about AI and Cloud Software  
-  <br/>
-  🌱 Currently learning DSA in Java  
-  <br/>
-  💡 Interested in real-world problem-solving and diving deep into AI
+<a href="https://www.linkedin.com/in/prajwal-mahamuni-621013317/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://github.com/Prajwal7387">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧰 Languages and Tools
 
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,nodejs,mongodb,mysql,git,vscode,linux" />
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Prajwal7387&show_icons=true&theme=tokyonight" />
 </p>
 
-### 📊 Data, Visualization & ML
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal7387&layout=compact&theme=tokyonight" />
 </p>
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal7387&theme=tokyonight" />
 </p>
 
-### 🔧 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal7387&theme=react-dark"/>
 </p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 2nd Year Information Technology Student  
+- 💻 Passionate about Software Development  
+- 🌐 Interested in Web Development & AI  
+- 📚 Learning Full Stack Development  
+- 🎯 Goal: Become an SDE  
+
+---
+
+## ⚡ Fun Fact
+
+```txt
+I turn ideas into code 🚀
