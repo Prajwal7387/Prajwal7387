@@ -45,15 +45,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,nodejs,mongodb,mysql,git,vscode,linux&perline=7" />
 </div>
 
-<br>
-
-<!-- Gamified Trophies -->
-<h2 align="center">🏆 GitHub Achievements</h2>
-<div align="center">
-  <a href="https://github.com/Prajwal7387">
-    <img src="https://github-profile-trophy.vercel.app/?username=Prajwal7387&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</div>
 
 <br>
 
@@ -76,15 +67,7 @@
 
 <br>
 
-<!-- Contribution Graph -->
-<h2 align="center">📈 Activity Overview</h2>
-<div align="center">
-  <a href="https://github.com/Prajwal7387">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal7387&theme=react-dark&hide_border=true" alt="Activity Graph" width="97%" />
-  </a>
-</div>
 
-<br>
 
 <!-- Animated Footer -->
 <div align="center">
