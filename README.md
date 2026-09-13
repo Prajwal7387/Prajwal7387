@@ -45,18 +45,6 @@
 
 <br>
 
-<!-- METRICS INFOGRAPHIC -->
-<h2 align="center">📊 Deep Metrics</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-metrics.svg">
-    <source media="(prefers-color-scheme: light)" srcset="github-metrics.svg">
-    <img alt="Metrics" src="github-metrics.svg">
-  </picture>
-</div>
-
-<br>
-
 <!-- SNAKE ANIMATION -->
 <h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
